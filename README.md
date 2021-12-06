@@ -8,3 +8,12 @@ A website that offers marketing services.
 * CSS
 
 ## Website
+https://github.com/coreygettig7/Horiseon
+
+## Screenshot
+![HoriseonHomepage](/../HoriseonAccessibility/urban-octo-telegram/Develop/assets/images/Horiseon-homepage.png)
+
+## Contribution
+Made with ❤️ by Corey Gettig
+
+### ©2019 Horiseon Social Solution Services, Inc.
