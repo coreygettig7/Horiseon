@@ -8,7 +8,7 @@ A website that offers marketing services.
 * CSS
 
 ## Website
-https://github.com/coreygettig7/Horiseon
+https://coreygettig7.github.io/Horiseon/index.html
 
 ## Screenshot
 ![HoriseonHomepage](/../HoriseonAccessibility/urban-octo-telegram/Develop/assets/images/Horiseon-homepage.png)
